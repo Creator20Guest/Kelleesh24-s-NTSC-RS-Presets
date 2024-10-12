@@ -16,5 +16,14 @@ To none, just to jakediditagain (from YT) to inspire me to make "HD Television" 
 And you. Hope you like :/
 
 # Demostration
-Here is a demostration of all the included presets in this repository...
+Here is a demostration of all the included presets in this repository... (OUTDATED TO OCT-01-2024)
+
 https://youtu.be/QmLhAugWq7k
+
+To get other unreleased presets, go here: 
+
+https://github.com/Kelleesh24/Kelleesh24-s-NTSC-RS-Presets
+
+Enjoy
+
+Kelleesh24 / Creator20Guest
